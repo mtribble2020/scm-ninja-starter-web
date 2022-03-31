@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+This is a Sample Project.
+
 ## Introduction
 
 ## Purpose
