@@ -4,6 +4,8 @@ This is a Sample Project.
 
 ## Introduction
 
+This is the Introduction section.
+
 ## Purpose
 
 ## Deployment
