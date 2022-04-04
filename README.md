@@ -12,4 +12,6 @@ This is the Introduction section.
 
 ## How To Contribute
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for my work demos.
+
+### Copyright 2021
