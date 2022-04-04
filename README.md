@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a Sample Project.  Adding a line for rebasing example.
+This is a Sample Project.  Adding a line for rebasing example, then more changes from myfeature branch to, then more changes from myfeature branch too.
+
 
 ## Introduction
 
