@@ -8,8 +8,15 @@ This is the Introduction section.
 
 ## Purpose
 
+This is the Purpose section.
+
 ## Deployment
+
+This is the Deployment section.
 
 ## How To Contribute
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for the demos.
+
+### Copyright 2022
+
