@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a Sample Project.
+This is a Sample Project.  Adding a line for rebasing example.
 
 ## Introduction
 
